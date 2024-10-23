@@ -74,7 +74,7 @@ const MainPage = () => {
         <NavButton label="찜" iconUri="https://img.icons8.com/ios-filled/50/000000/like.png" />
         <NavButton label="헬스" iconUri="https://img.icons8.com/ios-filled/50/000000/health.png" />
         <NavButton label="게시" iconUri="https://img.icons8.com/ios-filled/50/000000/post.png" />
-        <NavButton label="마이" iconUri="https://img.icons8.com/ios-filled/50/000000/user.png" />
+        <NavButton label="페이지" iconUri="https://img.icons8.com/ios-filled/50/000000/user.png" />
       </View>
     </View>
   );
